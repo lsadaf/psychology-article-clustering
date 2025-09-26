@@ -1,4 +1,4 @@
-# Psychology Article Clustering (NLP, University of Tehran)
+# Psychology Article Clustering
 
 This project collects psychology research articles from the University of Tehran, processes the abstracts and keywords using NLP (Persian text analysis), and then applies clustering techniques to discover thematic groups within the research corpus.  
 
