@@ -30,7 +30,7 @@ This project collects psychology research articles from the University of Tehran
 ├── all_articles300.csv # Raw crawled data (URL, abstract, keywords)
 ├── all_keywords300.csv # Processed keywords (after NLP)
 ├── totaldocuments.mat # Saved term-document matrix
-├── Clustering.ipynb # Clustering + results interpretation
+├── clustering.ipynb # Clustering + results interpretation
 └── README.md # Project documentation
 ```
 ## Requirements
